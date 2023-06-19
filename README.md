@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 61.8 kB Used in GitHub's Storage 
+> 📦 62.0 kB Used in GitHub's Storage 
  > 
 > 🏆 17 Contributions in the Year 2023
  > 
@@ -78,7 +78,7 @@ C++                      1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/AimerYoung/AimerYoung/main/assets/bar_graph.png)
 
 
- Last Updated on 18/06/2023 18:32:54 UTC
+ Last Updated on 19/06/2023 18:33:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
